@@ -9,13 +9,15 @@ Code book:
 * "subject" - Identity of the volunteer subject - Unit: number - range (1..30)
 
 * "activity" - Activity Lables - Unit: lable
-         WALKING
-        + WALKING_UPSTAIRS
-        + WALKING_DOWNSTAIRS
-        + SITTING
-        + STANDING
-        + LAYING
-"tBodyAcc.mean...X"
+ + WALKING
+ + WALKING_UPSTAIRS
+ + WALKING_DOWNSTAIRS
+ + SITTING
+ + STANDING
+ + LAYING
+ 
+ 
+* "tBodyAcc.mean...X"
 "tBodyAcc.mean...Y"
 "tBodyAcc.mean...Z"
 "tBodyAcc.std...X"
