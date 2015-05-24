@@ -2,12 +2,19 @@
 
 Study design:
 
-The function run_analysis() produces a tidy data set from the Human Activity Recognition Using Smartphones Data Set. The source data is transformed as described in the ReadMe.md. Details of the output variables are provide below. 
+The function run_analysis() produces a tidy data set from the Human Activity Recognition Using Smartphones Data Set. The source data is transformed as described in the ReadMe.md. Details of the output variables are provided below. 
 
 Code book:
 
 * "subject" - Identity of the volunteer subject - Unit: number - range (1..30)
-* "activity"
+
+* "activity" - Activity Lables - Unit: lable
++ WALKING
++ WALKING_UPSTAIRS
++ WALKING_DOWNSTAIRS
++ SITTING
++ STANDING
++ LAYING
 "tBodyAcc.mean...X"
 "tBodyAcc.mean...Y"
 "tBodyAcc.mean...Z"
