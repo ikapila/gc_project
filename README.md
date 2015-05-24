@@ -1,6 +1,6 @@
 # run_analysis.R
 
-This function retuns a tidy data set from the  Human Activity Recognition Using Smartphones Data. A full description of this data set is available at : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+This function retuns a tidy data set from the  Human Activity Recognition Using Smartphones Data Set. A full description of this data set is available at : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 
 The source data is available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
@@ -15,7 +15,9 @@ This function makes the source data tidy by
 4. Appropriately labeling the data set with descriptive variable names. 
 5. Producing a data set with the average of each variable for each activity and each subject.
 
-# How to use this function
+The CodeBook.md describes the variables in the tidy data set.
+
+## How to use this function
 
 1. Download the source data to your working director from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
