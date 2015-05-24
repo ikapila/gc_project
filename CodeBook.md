@@ -7,7 +7,6 @@ The function run_analysis() produces a tidy data set from the Human Activity Rec
 Code book:
 
 * "subject" - Identity of the volunteer subject - Unit: number - range (1..30)
-
 * "activity"
 "tBodyAcc.mean...X"
 "tBodyAcc.mean...Y"
