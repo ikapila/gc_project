@@ -9,7 +9,7 @@ Code book:
 * "subject" - Identity of the volunteer subject - Unit: number - range (1..30)
 
 * "activity" - Activity Lables - Unit: lable
-        + WALKING
+         WALKING
         + WALKING_UPSTAIRS
         + WALKING_DOWNSTAIRS
         + SITTING
